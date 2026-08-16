@@ -30,3 +30,17 @@ Code artist crafting seamless, fast, and beautiful apps for the modern world.
 </p>
 
 ---
+### 📊 GitHub Activity:
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Tedra-ez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+    alt="Zhanibek's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tedra-ez&layout=compact&theme=tokyonight&hide_border=true&langs_count=5"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>

@@ -1,7 +1,7 @@
 # Hi 👋, I'm Zhanibek
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tedra-ez/Tedra-ez/main/assets/minecraft.gif" width="100%" alt="Minecraft Sunset" />
+<img src="./C77C0631-2844-457E-BFC5-083666CD83E6.gif" width="100%" alt="Minecraft Sunset" />
 </div>
 
 ### Welcome to my GitHub

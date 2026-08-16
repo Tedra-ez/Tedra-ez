@@ -1,5 +1,4 @@
 # Hi 👋, I'm Zhanibek
-
 <div align="center">
   <img src="assets/minecraft.gif" width="100%" alt="Minecraft Sunset" />
 </div>

@@ -1,5 +1,9 @@
 # Hi 👋, I'm Zhanibek
 
+<div align="center">
+  <img src="assets/minecraft.gif" width="100%" alt="Minecraft Sunset" />
+</div>
+
 ### Welcome to my GitHub
 
 Code artist crafting seamless, fast, and beautiful apps for the modern world.

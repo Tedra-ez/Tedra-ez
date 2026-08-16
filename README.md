@@ -30,10 +30,3 @@ Code artist crafting seamless, fast, and beautiful apps for the modern world.
 </p>
 
 ---
-
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tedra-ez&show_icons=true&hide_border=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tedra-ez&layout=compact&hide_border=true&theme=transparent" height="150" />
-</p>

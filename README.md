@@ -34,12 +34,12 @@ Code artist crafting seamless, fast, and beautiful apps for the modern world.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Tedra-ez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tedra-ez&theme=github_dark"
     height="180"
-    alt="Zhanibek's GitHub Stats"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tedra-ez&layout=compact&theme=tokyonight&hide_border=true&langs_count=5"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tedra-ez&theme=github_dark"
     height="180"
     alt="Most Used Languages"
   />
